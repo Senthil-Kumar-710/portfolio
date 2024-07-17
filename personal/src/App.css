@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: url('https://i.pinimg.com/474x/20/37/bd/2037bd4fb066bd21272e2530c4c1a732.jpg');
+  padding: 80px 600px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+nav a {
+  margin:  10px;
+  color: rgb(0, 0, 0);
+  text-decoration:underline;
+}
+
+nav a:hover {
+  text-decoration:underline;
+}
+
+main {
+  padding: 120px;
+}
+
+section {
+  text-align: left;
+  padding: left;
+  margin: -110px;
+}
+
+h2 {
+  text-align: left;
+  padding: left;
+  margin: 0px;
+  text-decoration:underline;
+  
+}
